@@ -23,4 +23,4 @@
 [Mhankbarbar](https://github.com/MhankBarBar)  | [Nurutomo](https://github.com/Nu Constributor rutomo)
 
 
-[Adiwajshing](https://github.com/adiwajshing) | [Denara Bot](https://DenaraBot.github.io)
+[Adiwajshing](https://github.com/adiwajshing) | [DenaraBot](https://DenaraBot.github.io)
