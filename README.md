@@ -1,12 +1,4 @@
-git clone https://github.com/DenaraBot/ochobot-V2.git
-
-cd ochobot-V2
-
-bash install.sh
-
-```
-
-## ```HOW TO DEPLOY```
+ ```HOW TO DEPLOY```
 
 [`Click Here For Tutorial`](https://youtu.be/YNrRfF8Rxpg)<br>
 
