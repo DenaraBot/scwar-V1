@@ -20,7 +20,7 @@
 
 # Thanks to
 
-[Mhankbarbar](https://github.com/MhankBarBar)  | [Nurutomo) (https://github.com/Nurutomo?tab
-
-
-[Adiwajshing](https://github.com/adiwajshing) | [DenaraBot](https://DenaraBot.github.io)
+[Mankbarbar](https://github.com/MhankBarBar)  
+[Nurutomo)(https://github.com/Nurutomo?tab
+[Adiwajshing](https://github.com/adiwajshing)
+[DenaraBot](https://DenaraBot.github.io)
