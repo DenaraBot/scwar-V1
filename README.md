@@ -24,9 +24,7 @@
 
 ---|---
 
-[Mhankbarbar](https://github.com/MhankBarBar)  | [Nurutomo](https://github.com/Nurutomo)
-
-Owner scwar-V1 | Constributor |
+[Mhankbarbar](https://github.com/MhankBarBar)  | [Nurutomo](https://github.com/Nu Constributor rutomo)
 
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![DENARA](http://github.com/DenaraBot.png?size=100)](http://github.com/DenaraBot) 
 
