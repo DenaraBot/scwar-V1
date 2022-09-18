@@ -24,4 +24,3 @@
 
 
 [Adiwajshing](https://github.com/adiwajshing) | [Denara Bot](https://DenaraBot.github.io)
-[Adiwajshing](https://github.com/adiwajshing) | [Denara Bot](https://DenaraBot.github.io)
