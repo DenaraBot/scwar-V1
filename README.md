@@ -31,6 +31,4 @@ Owner scwar-V1 | Constributor |
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![DENARA](http://github.com/DenaraBot.png?size=100)](http://github.com/DenaraBot) 
 
 [Adiwajshing](https://github.com/adiwajshing) | [Denara Bot](https://DenaraBot.github.io)
-
-Owner of Baileys | Owner of Api Denarabot |
-
+[Adiwajshing](https://github.com/adiwajshing) | [Denara Bot](https://DenaraBot.github.io)
