@@ -22,7 +22,7 @@
 
 [Mankbarbar](https://github.com/MhankBarBar)  
 
-[Nurutomo)(https://github.com/Nurutomo?tab
+[Nurutomo)(https://github.com/Nurutomo)
 
 [Adiwajshing](https://github.com/adiwajshing)
 
