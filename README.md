@@ -22,7 +22,7 @@
 
 [Mankbarbar](https://github.com/MhankBarBar)  
 
-[Mankbarbar](https://github.com/Nurutomo)
+[Nurutomo](https://github.com/Nurutomo)
 
 [Adiwajshing](https://github.com/adiwajshing)
 
